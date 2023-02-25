@@ -1,0 +1,59 @@
+{
+  "cards": [
+    {
+      "dateTime": "July 8, 8:00",
+      "keyword": "",
+      "status": ""
+    },
+    {
+      "dateTime": "July 9, 8:00",
+      "keyword": "home",
+      "status": "Scheduled"
+    },
+    {
+      "dateTime": "July 11, 8:00",
+      "keyword": "office",
+      "status": "Needs Approval"
+    },
+    {
+      "dateTime": "July 11, 12:00",
+      "keyword": "office",
+      "status": "Needs Approval"
+    },
+    {
+      "dateTime": "July 11, 16:00",
+      "keyword": "office",
+      "status": "Needs Approval"
+    },
+    {
+      "dateTime": "July 11, 18:00",
+      "keyword": "office",
+      "status": "Needs Approval"
+    },
+    {
+      "dateTime": "July 12, 8:00",
+      "keyword": "office",
+      "status": "Needs Approval"
+    },
+    {
+      "dateTime": "July 1, 8:00",
+      "keyword": "travel",
+      "status": "Published"
+    },
+    {
+      "dateTime": "July 2, 10:00",
+      "keyword": "stock",
+      "status": "Failed to post"
+    },
+    {
+      "dateTime": "July 4, 16:30",
+      "keyword": "travel",
+      "status": "Published"
+    },
+    {
+      "dateTime": "July 5, 08:00",
+      "keyword": "travel",
+      "status": "Published"
+    }
+  ]
+}

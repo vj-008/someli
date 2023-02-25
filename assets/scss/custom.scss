@@ -1,0 +1,14 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+$gray-100: #f8f9fa;
+
+$primary: #010101;
+$secondary: $gray-100;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+);
+
